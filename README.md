@@ -1,4 +1,4 @@
-# Sales-Analysis
+# Sales-Performance-Analysis
 
 ## Introduction
 This is a Sales Analysis on a dataset with 2 tables.
