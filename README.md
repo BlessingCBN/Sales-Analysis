@@ -1,4 +1,4 @@
-# Sales-Performance-Analysis
+# Sales Performance Analysis
 
 ## Introduction
 This is a Sales Analysis on a dataset with 2 tables.
@@ -17,6 +17,15 @@ I carried out the ETL on the imported dataset. The dataset was cleaned. I create
 I employed the DAX expression to create new measures for revenue and average ticketing price (ATP).
 
 ![](RevenueView.PNG)
+
+## Insight
+
+
+
+
+
+## Recommendation
+
 
 
 
