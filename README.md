@@ -16,22 +16,11 @@ I carried out the ETL on the imported dataset. The dataset was cleaned. I create
 ## Visual Representation
 I employed the DAX expression to create new measures for revenue and average ticketing price (ATP).
 
-![](RevenueView.PNG)
+![](RevenueView.jpg)
 
 
 
 
-
-
-
-
-## Insight
-
-
-
-
-
-## Recommendation
 
 
 
